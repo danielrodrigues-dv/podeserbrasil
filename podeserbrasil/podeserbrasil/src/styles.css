@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: #181d2b;
+}
+
+
+
+/*Inicio scroll configuração*/
+::-webkit-scrollbar{width: 6px; background-color: rgba(238, 0, 0, 0.144);}
+::-webkit-scrollbar-track{background-color: rgb(0, 0, 0);}
+::-webkit-scrollbar-button{background-color: rgb(0, 0, 0);}
+::-webkit-scrollbar-thumb{background-color: rgb(92, 92, 92);border-radius: 20px;border: 3px solid rgb(57, 57, 57);
+}
+/*Fim scroll configuração*/

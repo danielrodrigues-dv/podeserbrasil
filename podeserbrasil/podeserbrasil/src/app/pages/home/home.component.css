@@ -1,0 +1,59 @@
+.bg-text{
+  color: white !important;
+}
+
+a{
+  font-size: 18px;
+}
+a:active{
+  color: blue !important;
+}
+
+.border-bottom{
+ /* opacity: 0.3 !important; */
+}
+
+
+
+.btn-grad {
+  background-image: linear-gradient(to right, #0575E6 0%, #021B79  51%, #0575E6  100%);
+  padding: 10px 35px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0px 0px 20px 1PX rgba(238, 238, 238, 0.215);
+  border-radius: 10px;
+  display: block;
+}
+
+.btn-grad:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+.card{
+  background-color: #1d2437 !important;
+  color: white !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
